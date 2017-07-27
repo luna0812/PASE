@@ -1,0 +1,21 @@
+
+# ignore idea project file
+*.ipr
+*.iml
+!psae-web-flash-audio.iml
+*.log
+*.class
+*.idea
+
+target
+release
+node_modules
+statics
+
+target/*
+# web 使用的第三方插件（可以在线安装）
+psae-web-frontend/node_modules/
+# web 编译的文件
+psae-web-frontend/src/main/frontend/javascripts/*/templates/_templates.js
+# web 测试支持执行报告
+psae-web-frontend/reports

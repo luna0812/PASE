@@ -5,6 +5,8 @@ package com.jonny.demo;
  */
 public class MyDemo {
     public static void main(String[] args) {
+        // hhhhhh
         System.out.println("Hello,IDEA!");
+        System.out.println("Bye,IDEA!");
     }
 }
